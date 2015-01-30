@@ -1,2 +1,2 @@
-# memory-management
-Simple and buddy memory management in C.
+# memory-allocator
+Simple and buddy memory allocator in C.
