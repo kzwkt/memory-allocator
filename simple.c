@@ -1,4 +1,4 @@
-// simple memory allocator implemented as a circular linked list
+// simple memory allocator implemented as a linked list
 
 #include <stdio.h>
 
